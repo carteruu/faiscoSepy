@@ -1,0 +1,2 @@
+# faiscoSepy
+Selenium auto test
